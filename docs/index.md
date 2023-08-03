@@ -4,21 +4,11 @@ title: About
 ---
 # About
 
-Digital fabrication technology, which allows for direct fabrication from design data, has the potential to revolutionize Archi-
-tecture, Engineering, and Construction (AEC). However, due to the complexities of construction sites, including technical, 
-social, and economic challenges, the AEC sector faces difficulties in fully adopting and integrating these innovations for au-
-tomated, robotic building construction. The research discussed in this workshop explores a hybrid, human-robot fabrication 
-approach as a potential paradigm shift. By integrating human involvement in design and fabrication workflows, this method
-leverages machine capabilities while also engaging builders and fabricators.
+Digital fabrication technology has opened the possibility of fabricating directly from design information, promising to transform many design and production disciplines in Architecture, Engineering, and Construction (AEC). However, the unstructured nature of construction sites poses several technical, social, and economic barriers that hinder the AEC sector's direct adoption and integration of such innovations and achieving the vision of fully automated and robotized building construction. Hence, the research presented within this workshop investigates whether the idea of a hybrid, dually augmented human-robot fabrication work could form the basis of a paradigm shift in this field. Human-in-the-loop design and fabrication workflows production chains have the potential to exploit machine intelligence and capacities while incorporating the participatory engagement of builders and fabricators.
 
 <figure>
   <img src="{{site.baseurl}}images/title_img.png" alt="Human-Robot Cooperative Assembly of Spatial Structures." style="width:100%" class="center">
   <figcaption>Image: Human-Robot Cooperative Assembly of Spatial Structures.</figcaption>
 </figure>
 
-
-In this workshop, part of [Future of Construction Symposium](https://futureofconstruction.net/), participants will participate in a human-robot assembly workflow where two collaborative robots place and
-stabilize building components while humans assemble them. Utilizing a specialized mobile Augmented Reality interface that 
-combines task management and robot control, humans and robots share a digital-physical workspace. This setup uses digi-
-tal spatial data to facilitate cooperative assembly and aims to redefine the task distribution and coordination among humans, 
-skilled workers, designers, machines, and robots.
+As part of this [Future of Construction Symposium](https://futureofconstruction.net/) workshop, participants will have the chance to engage in a cooperative human-robot assembly workflow. In this workflow, two collaborative mobile robots place building elements and stabilize a structure while humans manually assemble and join them. Using a custom mobile Augmented Reality phone interface, integrating task manager and robot control into one consistent augmentation system, humans and robots share a digital-physical workspace in which digital spatial data informs humans and robots and facilitates cooperative assembly routines. In doing so, we aim to negotiate the levels of task distribution and coordination and to reinvent the fundamental relationship between humans, skilled workers and designers, machines, and robots. 
