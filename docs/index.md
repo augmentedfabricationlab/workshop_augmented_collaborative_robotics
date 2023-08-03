@@ -12,9 +12,10 @@ approach as a potential paradigm shift. By integrating human involvement in desi
 leverages machine capabilities while also engaging builders and fabricators.
 
 <figure>
-  <img src="{{site.baseurl}}images/title_img.jpg" alt="Human-Robot Cooperative Assembly of Spatial Structures." style="width:100%" class="center">
+  <img src="{{site.baseurl}}images/title_img.png" alt="Human-Robot Cooperative Assembly of Spatial Structures." style="width:100%" class="center">
   <figcaption>Image: Human-Robot Cooperative Assembly of Spatial Structures.</figcaption>
 </figure>
+
 
 In this workshop, part of [Future of Construction Symposium](https://futureofconstruction.net/), participants will participate in a human-robot assembly workflow where two collaborative robots place and
 stabilize building components while humans assemble them. Utilizing a specialized mobile Augmented Reality interface that 
