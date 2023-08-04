@@ -11,10 +11,10 @@ title: Workshop program
 09:20–09:40 | **Introduction to research on collaborative robotics at EPFL** (Skevaki & Parascho)   
 09:40–10:00 | Discussion   
 10:00–11:00 | **Introduction to the hands-on part** 
-            | Design tool (Atanasova)
-            | AR app (Mitterberger)
-            | Robotic fabrication (Atanasova)
-            | Whole workflow (Mitterberger, Atanasova, Alexi, Kenny, Skevaki)
+10:00–10:15 | Design tool (Atanasova)
+10:15–10:30 | AR app (Mitterberger)
+10:30–10:45 | Robotic fabrication (Atanasova)
+10:45–11:00 | Whole workflow (Mitterberger, Atanasova, Alexi, Kenny, Skevaki)
 11:00–12:40 | **Hands-on experiments** (groups of two for each station)  
 12:40–13:00 | **Discussion, feedback and questions**  
 
